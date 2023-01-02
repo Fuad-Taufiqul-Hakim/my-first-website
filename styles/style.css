@@ -1,0 +1,29 @@
+h1 {
+  color: brown;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  border: 2px solid red;
+  border-radius: 5px;
+  text-align: justify;
+  padding: 15px;
+}
+
+.blog {
+  background-color: teal;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.blog p {
+  border: 4px dotted red;
+  border-radius: 5px;
+  padding: 15px;
+  text-align: justify;
+}
+.blog h2 {
+  text-align: center;
+  color: rgb(250, 250, 250);
+}
